@@ -38,7 +38,7 @@
     "@babel/preset-typescript": "^7.3.3",
     "@tensorflow-models/posenet": "^1.0.3",
     "@tensorflow/tfjs": "^1.1.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.6",
     "history": "^4.7.2",
     "react": "^16.8.6",
